@@ -44,14 +44,14 @@ Here are few resources that help you stand out from the rest. We strongly recomm
 <!-- * [Python Code Academy Course](https://www.codecademy.com/learn/python) An interactive, in-browser tutorial from Codecademy with 20+ modules and 200+ exercises. It is geared toward novice programmers -->
 
 ## Machine Learning
-
+* [Udacity, Introduction to Machine Learning](https://www.youtube.com/watch?v=ICKBWIkfeJ8&list=PLAwxTw4SYaPkQXg8TkVdIvYv4HfLG7SiH)
 * [A Friendly Introduction to Machine Learning  - 30 Minutes](https://www.youtube.com/watch?v=IpGxLWOIZy4&t=1232s)
 <!-- * [Introduction to Machine Learning - Udacity](https://in.udacity.com/course/intro-to-machine-learning--ud120) -->
 * [A Gentle Introduction to Scikit-Learn: A Python Machine Learning Library - 15 Minutes](https://machinelearningmastery.com/a-gentle-introduction-to-scikit-learn-a-python-machine-learning-library/)
 
 ## Additional Resources (optional but recommended)
 We recommend you to go through the following content
-* [Udacity, Introduction to Machine Learning](https://www.youtube.com/watch?v=ICKBWIkfeJ8&list=PLAwxTw4SYaPkQXg8TkVdIvYv4HfLG7SiH)
+
 * [Basics of Calculus - Visual Introduction](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 * [Basics of Linear Algebra - Visual Introduction](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 * [More hands on practice with Python](https://www.learnpython.org/)
