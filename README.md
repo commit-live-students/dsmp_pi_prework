@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/greyatom.png" />
+  <img src="images/greyatom.png" height = "50" width="200" />
 </p>
 
 # Program Pre-Work
