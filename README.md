@@ -6,7 +6,7 @@
 
 Welcome! Congratulations on your acceptance to GreyAtom's Data Science Program. We hope you are really excited!! We want you to get ready for the program and have a smooth experience.
 
-In this module we will take you through all the steps that you should complete before you attend first classroom session of the program.
+In this module we will take you through all the steps that you should complete before you start your program.
 
 ## Overview
 
